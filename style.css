@@ -7,10 +7,13 @@
 .navbar-brand {
     font-weight: bold;
     font-size:xx-large;
+    background-color: cadetblue;
 }
 
 .nav-item {
-    font-size:x-large;
+    font-size:medium;
+    align-content: left;
+    background-color: cadetblue;
 }
 
 
