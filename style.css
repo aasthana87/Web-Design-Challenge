@@ -1,0 +1,54 @@
+
+.navigation {
+    background-color: cadetblue;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size:xx-large;
+}
+
+.nav-item {
+    font-size:x-large;
+}
+
+
+.box {
+    margin-top: 50px;
+}
+
+.imageNav-header {
+    color:cadetblue;
+}
+
+.col-8 {
+    align-content:center;
+    font-size: x-large;
+    width:fit-content
+}
+
+.col-6 {
+    color:cadetblue;
+    width: fit-content;
+    height:fit-content;
+    font-weight: bold;
+    align-content: center;
+    font-size: x-large;
+}
+
+.col-md-6 {
+    color:cadetblue;
+    font-weight: bold;
+    font-size: x-large;
+    align-content: right;
+}
+
+th {
+    white-space:nowrap;
+}
+
+tr {
+    white-space:nowrap;
+    text-align: center;
+}
